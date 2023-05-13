@@ -43,6 +43,8 @@ Ravenel Webscrapper 是一個可以幫助你在[羅芙奧藝術網站](https://r
 Han-wei Lee @Hanwei_nextdoor on GitHub
 hanwei.lee0414@gmail.com
 
+在此向新竹張先生致謝。
+
 歡迎提交 Pull Requests。
 
 對於重大的更改，請先開立一個 issue ，並向我討論想更改的內容。請確保您在適當環境與情況下更新測試。
