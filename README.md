@@ -53,4 +53,4 @@ hanwei.lee0414@gmail.com
 
 ## 附錄 Appendix
 
-本專案另附有一Jupyter Notebook 檔案（.ipynb），為利用此程式獲得之資料進行之探索式資料分析（Exploratory Data Analysis）。
+本專案另附有一Jupyter Notebook 檔案（Ravenel_EDA.ipynb），為利用此程式獲得之資料進行之探索式資料分析（Exploratory Data Analysis）。
